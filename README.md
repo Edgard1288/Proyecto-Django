@@ -11,9 +11,5 @@
 # git add .
 # git commit - m "comit"
 # git push 
-#
 
 # todos los derechos a mi
-#
-#
-#
